@@ -76,7 +76,3 @@
 <p align="left">Gmail: kauan.oliveira4365@gmail.com</p>
 
 ###
-
-<img src="https://raw.githubusercontent.com/KauanOliveira200/KauanOliveira200/output/snake.svg" alt="Snake animation" />
-
-###
