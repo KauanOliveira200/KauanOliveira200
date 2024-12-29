@@ -73,6 +73,6 @@
 
 ###
 
-<p align="left">Gmail: kauan.oliveira4365@gmail.com</p>
+<p align="left">Gmail: oliveira.kauans595@gmail.com</p>
 
 ###
